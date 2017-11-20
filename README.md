@@ -1,6 +1,6 @@
 # grails-embedded-nullables
 
-An example application using grails 3.3.0 and gorm 6.1.6 to demonstrate an issue 
+An example application using grails 3.3.1 and gorm 6.1.8 to demonstrate an issue 
 about domain entities having embedded components.
 
 The issue is that the default nullable constraint is ignored for embedded components.
